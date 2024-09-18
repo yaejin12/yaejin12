@@ -1,7 +1,7 @@
 <div align=center>
 
 
-##Tech Stack
+## Tech Stack
 
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
@@ -11,7 +11,7 @@
 
 
 
-##GITHUB STATS<br />
+## GITHUB STATS <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaejin12&layout=compact)](https://github.com/yaejin12/github-readme-stats)
 
 
