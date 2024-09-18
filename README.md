@@ -1,4 +1,4 @@
-## Hi there 👋
+<div align=center>
 
 
 Tech Stack
@@ -14,3 +14,6 @@ Tech Stack
 GITHUB STATS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaejin12&layout=compact)](https://github.com/yaejin12/github-readme-stats)
 
+
+
+</div>
