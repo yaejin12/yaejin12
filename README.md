@@ -1,5 +1,6 @@
 
 <br />
+<br />
 
 <img src="https://img.shields.io/badge/pos03167@naver.com-FF3670?style=flat-square&logo=gmail&logoColor=white"/>
 
@@ -24,4 +25,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaejin12&layout=compact)](https://github.com/yaejin12/github-readme-stats)
 
 
+<br />
+<br />
 
