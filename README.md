@@ -14,6 +14,7 @@
 
 
 #### 💡 GitHub Stats <br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaejin12&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaejin12&layout=compact)](https://github.com/yaejin12/github-readme-stats)
 
 
