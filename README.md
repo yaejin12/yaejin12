@@ -2,7 +2,7 @@
 <br />
 <br />
 
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" />
 👋 안녕하세요, 신입개발자 이예진입니다. 🚀
 프론트엔드 & 백엔드 공부를 하고 있습니다. 잘 부탁드립니다. 💖
 
