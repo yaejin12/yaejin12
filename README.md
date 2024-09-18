@@ -3,7 +3,8 @@
 
 <img src="https://img.shields.io/badge/pos03167@naver.com-FF3670?style=flat-square&logo=gmail&logoColor=white"/>
 
-#### 👋 안녕하세요, 프론트엔드 & 백엔드 신입개발자 이예진입니다. 잘 부탁드립니다. 💖
+👋 안녕하세요, 프론트엔드 & 백엔드 신입개발자 이예진입니다. 🚀
+잘 부탁드립니다. 💖
 
 
 
